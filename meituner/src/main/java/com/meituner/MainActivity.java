@@ -16,7 +16,10 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
+<<<<<<< HEAD
     private static final String TAG = "MainActivity";
+=======
+>>>>>>> origin/master
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
